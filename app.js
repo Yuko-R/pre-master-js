@@ -82,7 +82,7 @@ let studentlist = [
   {name:"もえぴ",from:"山形",hobby:"韓国ドラマ"},
   {name:"しょうさん",from:"岩手",hobby:"スノーボード"},
   {name:"ゆうだい",from:"大阪",hobby:"えいこうちゃん"},
-  {name:"しんや",from:"沖縄",hobby:"じーまーみ作り"},
+  {name:"しんや",from:"沖縄",hobby:"じーまーみ豆腐作り"},
   {name:"えりぴょん",from:"和歌山",hobby:"動画撮影"},
   {name:"よっしー",from:"京都",hobby:"デリバリー"},
   {name:"ゆうこ",from:"沖縄",hobby:"英語"}
